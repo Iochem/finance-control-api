@@ -21,7 +21,7 @@ target/
 *.properties
 
 # Exceto o exemplo.properties que você quer manter no GitHub
-!exemplo.properties
+!exemple.properties
 
 ### NetBeans ###
 /nbproject/private/
